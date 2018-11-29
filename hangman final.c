@@ -1,3 +1,4 @@
+// Hangman
 #include<stdio.h>    /*Header file declaration*/
 
 #include<string.h>   /*<string.h> for strcmp();,strlen(); functions use*/
